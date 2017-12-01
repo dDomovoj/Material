@@ -1,0 +1,30 @@
+PODS:
+  - Kingfisher (4.3.1)
+  - Material (0.1.0)
+  - SnapKit (4.0.0)
+  - SwiftyAttributes (4.1.0)
+
+DEPENDENCIES:
+  - Kingfisher
+  - Material (from `https://github.com/dDomovoj/Material`)
+  - SnapKit
+  - SwiftyAttributes
+
+EXTERNAL SOURCES:
+  Material:
+    :git: https://github.com/dDomovoj/Material
+
+CHECKOUT OPTIONS:
+  Material:
+    :commit: 958e3d75a1caf79e01d28a78f7c401eb09f0aff6
+    :git: https://github.com/dDomovoj/Material
+
+SPEC CHECKSUMS:
+  Kingfisher: 75541c4b62f02e1fde6f9772303de3d9ebe8f5b3
+  Material: 4a5a5893462fbe436bc924cc269321d630e87ca4
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftyAttributes: cef9463f6e7da1ab393896ca036c9ac37d8a406b
+
+PODFILE CHECKSUM: d1e8025aaa84cedf33bda2391d68f6a6e57df5b5
+
+COCOAPODS: 1.3.1
