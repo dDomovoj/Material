@@ -13,6 +13,18 @@
 		CE45647E1FD14EE8001F8679 /* CircleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE45647A1FD14EE8001F8679 /* CircleButton.swift */; };
 		CE45647F1FD14EE8001F8679 /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE45647B1FD14EE8001F8679 /* Button.swift */; };
 		CE4564831FD150C2001F8679 /* UIView+Animations.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564821FD150C2001F8679 /* UIView+Animations.swift */; };
+		CE4564F31FD16D1C001F8679 /* String+Rendering.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564E51FD16D1C001F8679 /* String+Rendering.swift */; };
+		CE4564F41FD16D1C001F8679 /* AnimationSlideUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564E61FD16D1C001F8679 /* AnimationSlideUp.swift */; };
+		CE4564F51FD16D1C001F8679 /* ItemButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564E71FD16D1C001F8679 /* ItemButton.swift */; };
+		CE4564F61FD16D1C001F8679 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564E91FD16D1C001F8679 /* Animation.swift */; };
+		CE4564F71FD16D1C001F8679 /* State.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564EA1FD16D1C001F8679 /* State.swift */; };
+		CE4564F81FD16D1C001F8679 /* Position.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564EB1FD16D1C001F8679 /* Position.swift */; };
+		CE4564F91FD16D1C001F8679 /* Action.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564EC1FD16D1C001F8679 /* Action.swift */; };
+		CE4564FA1FD16D1C001F8679 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564ED1FD16D1C001F8679 /* Utils.swift */; };
+		CE4564FB1FD16D1C001F8679 /* FloatingButtonContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564EE1FD16D1C001F8679 /* FloatingButtonContentView.swift */; };
+		CE4564FC1FD16D1C001F8679 /* FloatingButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564EF1FD16D1C001F8679 /* FloatingButton.swift */; };
+		CE4564FD1FD16D1C001F8679 /* AnimationBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564F11FD16D1C001F8679 /* AnimationBubble.swift */; };
+		CE4564FE1FD16D1C001F8679 /* AnimationCommon.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4564F21FD16D1C001F8679 /* AnimationCommon.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +36,18 @@
 		CE45647A1FD14EE8001F8679 /* CircleButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleButton.swift; sourceTree = "<group>"; };
 		CE45647B1FD14EE8001F8679 /* Button.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Button.swift; sourceTree = "<group>"; };
 		CE4564821FD150C2001F8679 /* UIView+Animations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Animations.swift"; sourceTree = "<group>"; };
+		CE4564E51FD16D1C001F8679 /* String+Rendering.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Rendering.swift"; sourceTree = "<group>"; };
+		CE4564E61FD16D1C001F8679 /* AnimationSlideUp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationSlideUp.swift; sourceTree = "<group>"; };
+		CE4564E71FD16D1C001F8679 /* ItemButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemButton.swift; sourceTree = "<group>"; };
+		CE4564E91FD16D1C001F8679 /* Animation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
+		CE4564EA1FD16D1C001F8679 /* State.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = State.swift; sourceTree = "<group>"; };
+		CE4564EB1FD16D1C001F8679 /* Position.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Position.swift; sourceTree = "<group>"; };
+		CE4564EC1FD16D1C001F8679 /* Action.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Action.swift; sourceTree = "<group>"; };
+		CE4564ED1FD16D1C001F8679 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		CE4564EE1FD16D1C001F8679 /* FloatingButtonContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FloatingButtonContentView.swift; sourceTree = "<group>"; };
+		CE4564EF1FD16D1C001F8679 /* FloatingButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FloatingButton.swift; sourceTree = "<group>"; };
+		CE4564F11FD16D1C001F8679 /* AnimationBubble.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationBubble.swift; sourceTree = "<group>"; };
+		CE4564F21FD16D1C001F8679 /* AnimationCommon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationCommon.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,13 +92,65 @@
 		CE4564741FD13F8E001F8679 /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				CE4564761FD14EE8001F8679 /* BaseView.swift */,
-				CE45647A1FD14EE8001F8679 /* CircleButton.swift */,
-				CE45647B1FD14EE8001F8679 /* Button.swift */,
-				CE4564781FD14EE8001F8679 /* ContentView.swift */,
+				CE4564E41FD16D1C001F8679 /* FloatingButton */,
+				CE4565011FD16D38001F8679 /* Base */,
+				CE4565001FD16D31001F8679 /* Buttons */,
+				CE4564ED1FD16D1C001F8679 /* Utils.swift */,
+				CE4564E51FD16D1C001F8679 /* String+Rendering.swift */,
 				CE4564821FD150C2001F8679 /* UIView+Animations.swift */,
 			);
 			path = Source;
+			sourceTree = "<group>";
+		};
+		CE4564E41FD16D1C001F8679 /* FloatingButton */ = {
+			isa = PBXGroup;
+			children = (
+				CE4564E61FD16D1C001F8679 /* AnimationSlideUp.swift */,
+				CE4564E71FD16D1C001F8679 /* ItemButton.swift */,
+				CE4564E81FD16D1C001F8679 /* Model */,
+				CE4564EE1FD16D1C001F8679 /* FloatingButtonContentView.swift */,
+				CE4564EF1FD16D1C001F8679 /* FloatingButton.swift */,
+				CE4564F01FD16D1C001F8679 /* Animations */,
+			);
+			path = FloatingButton;
+			sourceTree = "<group>";
+		};
+		CE4564E81FD16D1C001F8679 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				CE4564E91FD16D1C001F8679 /* Animation.swift */,
+				CE4564EA1FD16D1C001F8679 /* State.swift */,
+				CE4564EB1FD16D1C001F8679 /* Position.swift */,
+				CE4564EC1FD16D1C001F8679 /* Action.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		CE4564F01FD16D1C001F8679 /* Animations */ = {
+			isa = PBXGroup;
+			children = (
+				CE4564F11FD16D1C001F8679 /* AnimationBubble.swift */,
+				CE4564F21FD16D1C001F8679 /* AnimationCommon.swift */,
+			);
+			path = Animations;
+			sourceTree = "<group>";
+		};
+		CE4565001FD16D31001F8679 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				CE45647A1FD14EE8001F8679 /* CircleButton.swift */,
+				CE45647B1FD14EE8001F8679 /* Button.swift */,
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
+		CE4565011FD16D38001F8679 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				CE4564761FD14EE8001F8679 /* BaseView.swift */,
+				CE4564781FD14EE8001F8679 /* ContentView.swift */,
+			);
+			path = Base;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -156,10 +232,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE4564F81FD16D1C001F8679 /* Position.swift in Sources */,
+				CE4564F91FD16D1C001F8679 /* Action.swift in Sources */,
+				CE4564FB1FD16D1C001F8679 /* FloatingButtonContentView.swift in Sources */,
+				CE4564FC1FD16D1C001F8679 /* FloatingButton.swift in Sources */,
 				CE45647E1FD14EE8001F8679 /* CircleButton.swift in Sources */,
+				CE4564F31FD16D1C001F8679 /* String+Rendering.swift in Sources */,
+				CE4564F41FD16D1C001F8679 /* AnimationSlideUp.swift in Sources */,
+				CE4564FA1FD16D1C001F8679 /* Utils.swift in Sources */,
+				CE4564F71FD16D1C001F8679 /* State.swift in Sources */,
 				CE45647D1FD14EE8001F8679 /* ContentView.swift in Sources */,
 				CE45647C1FD14EE8001F8679 /* BaseView.swift in Sources */,
 				CE45647F1FD14EE8001F8679 /* Button.swift in Sources */,
+				CE4564FD1FD16D1C001F8679 /* AnimationBubble.swift in Sources */,
+				CE4564FE1FD16D1C001F8679 /* AnimationCommon.swift in Sources */,
+				CE4564F51FD16D1C001F8679 /* ItemButton.swift in Sources */,
+				CE4564F61FD16D1C001F8679 /* Animation.swift in Sources */,
 				CE4564831FD150C2001F8679 /* UIView+Animations.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
