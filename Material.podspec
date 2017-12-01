@@ -9,4 +9,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "9.0"
   s.source       = { :git => "https://github.com/dDomovoj/Material.git", :tag => s.version }
   s.source_files = 'Material/Source/*.{swift}'
+
+  s.framework = "UIKit"
+  s.framework = "Foundation"
 end
